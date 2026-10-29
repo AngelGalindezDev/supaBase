@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# local env files
+.env*.local
+.env
+
+# build output
+/.next
+/out
+
+# misc
+.DS_Store
+*.log
